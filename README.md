@@ -1,2 +1,2 @@
-# JavaScript-Learning-and-Examples
-A compilation of JS code examples
+# JavaScript-Learning-and-Exercises
+A compilation of JS code exercises 
